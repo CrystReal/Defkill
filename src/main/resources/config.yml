@@ -1,0 +1,16 @@
+serverid: 1
+maxPlayers: 10
+minPlayers: 2
+lobby: World|0|100|0|0|0
+maps:
+  one:
+    name: "Новая карта"
+    world: World
+    redSpawns:
+      - 10|100|10|0|0
+    blueSpawns:
+      - 10|100|10|0|0
+    greenSpawns:
+      - 10|100|10|0|0
+    yellowSpawns:
+      - 10|100|10|0|0

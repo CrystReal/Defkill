@@ -1,0 +1,6 @@
+name: DefKill
+main: com.streamcraft.Defkill.DefkillPlugin
+version: 1.2-ALPHA
+depend: [CRAPI]
+commands:
+  dk:
